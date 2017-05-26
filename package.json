@@ -1,0 +1,8 @@
+{
+    "name":"TestAngularInclude",
+    "version": "1.0.0",
+
+    "scripts": {
+        "dev": "lite-server -c configs/my-bs-config.js"
+    }
+}
